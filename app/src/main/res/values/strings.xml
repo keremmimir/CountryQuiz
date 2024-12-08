@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CountryQuiz</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="start">Start</string>
+    <string name="question">Which country does this flag belong to ?</string>
+    <string name="countryName">Türkiye</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="email">Email</string>
+    <string name="user_name">User Name</string>
+    <string name="password">Password</string>
+    <string name="sign_in">SIGN IN</string>
+    <string name="score_table">Score Table</string>
+    <string name="back_to_home">Back To Home</string>
+    <string name="exit">Exit</string>
+    <string name="score">Score :</string>
+    <string name="rank">rank</string>
+</resources>

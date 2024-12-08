@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1079527521609",
+    "project_id": "countryquiz-5c7dc",
+    "storage_bucket": "countryquiz-5c7dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079527521609:android:c06de8a4b38095f5ebee98",
+        "android_client_info": {
+          "package_name": "com.example.countryquiz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7-7ga96FtsuefcCo3j3vB_qnU5MJeJzs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

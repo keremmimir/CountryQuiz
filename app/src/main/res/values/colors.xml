@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name ="background">#1B1E2D</color>
+    <color name ="button">#020516</color>
+    <color name ="trueButton">#82B536</color>
+    <color name ="falseButton">#A80000</color>
+    <color name ="startButton">#F6921E</color>
+    <color name ="pauseCardBackground">#AAA9A9</color>
+    <color name ="transparent" tools:ignore="ResourceCycle">@color/transparent</color>
+</resources>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    tools:context=".ui.fragment.EndGameFragment">
+
+    <TextView
+        android:id="@+id/textScore"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Score : 20"
+        android:textAlignment="center"
+        android:textColor="@color/white"
+        android:textSize="@dimen/text_size_large"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toTopOf="@+id/playAgainButton"
+        app:layout_constraintEnd_toEndOf="@+id/playAgainButton"
+        app:layout_constraintStart_toStartOf="@+id/playAgainButton"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_chainStyle="packed" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/playAgainButton"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_xlarge"
+        android:padding="@dimen/padding_small"
+        android:text="Play Again"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold"
+        app:backgroundTint="@color/startButton"
+        app:cornerRadius="@dimen/large_radius"
+        app:layout_constraintBottom_toTopOf="@+id/backToHomeButton"
+        app:layout_constraintEnd_toEndOf="@+id/backToHomeButton"
+        app:layout_constraintStart_toStartOf="@+id/backToHomeButton"
+        app:layout_constraintTop_toBottomOf="@+id/textScore" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/backToHomeButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/margin_xxlarge"
+        android:layout_marginTop="@dimen/margin_xlarge"
+        android:layout_marginEnd="@dimen/margin_xxlarge"
+        android:padding="@dimen/padding_small"
+        android:text="@string/back_to_home"
+        android:textSize="@dimen/text_size_medium"
+        android:textStyle="bold"
+        app:backgroundTint="@color/startButton"
+        app:cornerRadius="@dimen/large_radius"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/playAgainButton" />
+</androidx.constraintlayout.widget.ConstraintLayout>
