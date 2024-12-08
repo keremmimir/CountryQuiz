@@ -24,6 +24,8 @@ CountryQuiz, dünya bayraklarını tanıyıp bilgini test edebileceğin eğlence
 
 ![Screenshot_pause](https://github.com/user-attachments/assets/11d169f8-349b-42c6-ba65-c97d9ff53759) ![Screenshot_endgame](https://github.com/user-attachments/assets/aaeca2b4-e19f-42d9-ac05-35b88eb67ac4)
 
+https://github.com/user-attachments/assets/3e33e06b-b329-4d1b-97dd-d9aad054fc77
+
 
 
 
