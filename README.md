@@ -18,7 +18,7 @@ CountryQuiz, dünya bayraklarını tanıyıp bilgini test edebileceğin eğlence
 ## Uygulamaya ait görseller:
 ![Screenshot_signin](https://github.com/user-attachments/assets/2c011151-ba26-4c2e-9eed-812c5abbe3a0) ![Screenshot_signup](https://github.com/user-attachments/assets/b850bcc0-d16d-4a42-afe5-d3a62aa0a140) 
 
-![Screenshot_home](https://github.com/user-attachments/assets/cdcd2733-3d25-4e7a-b9f3-9ab138067351) ![Screenshot_quiz](https://github.com/user-attachments/assets/bfc8fedb-43f2-419b-a407-87a5d38a7912)
+![Screenshot_home](https://github.com/user-attachments/assets/cdcd2733-3d25-4e7a-b9f3-9ab138067351) ![Screenshot_quiz](https://github.com/user-attachments/assets/bbefb02d-0364-40c7-845d-46d4b652e891)
 
 ![Screenshot_false](https://github.com/user-attachments/assets/df1c7585-a5ee-4355-a272-14239df96f1b) ![Screenshot_scoreTable](https://github.com/user-attachments/assets/e7647ddc-a8a6-47ac-ba1d-8e0777367e6f)
 
