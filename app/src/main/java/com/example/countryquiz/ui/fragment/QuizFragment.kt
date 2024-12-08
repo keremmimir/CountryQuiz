@@ -189,6 +189,7 @@ class QuizFragment : Fragment() {
         btnNegative.setOnClickListener {
             homePageNavigation()
             dialog.dismiss()
+            findNavController().popBackStack(R.id.quizFragment, true)
         }
         dialog.show()
     }
